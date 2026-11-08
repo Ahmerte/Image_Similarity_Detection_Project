@@ -1,7 +1,7 @@
 # Image Similarity Detection
 
 Image Processing course project (2026) — **Ahmet Mert Mete** (220218023) & **Adnan Efe Koç** (220218037)
-
+ 
 Compares two images and returns a **similarity score from 0 to 100** that stays meaningful when one of them is rotated, resized, cropped, recompressed or lightly edited. The tool also explains *why* two images match by drawing the matched keypoints and the aligned overlay.
 
 ![Matched keypoints](docs/matches.jpg)
