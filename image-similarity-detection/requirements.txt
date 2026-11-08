@@ -1,0 +1,7 @@
+opencv-python>=4.8
+numpy>=1.24
+scikit-image>=0.21
+imagehash>=4.3
+Pillow>=10.0
+streamlit>=1.45
+pytest>=7.0
